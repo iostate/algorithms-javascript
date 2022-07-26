@@ -9,6 +9,7 @@ const findTwoSum = function (nums, target) {
   }
   return null;
 };
+
 let test1 = [1, 3, 7, 9, 2];
 let test2 = [1, 3, 14, 11, 14];
 const result = findTwoSum(test1, 11);
